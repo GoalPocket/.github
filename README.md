@@ -1,24 +1,24 @@
-## GoalPocket
+# GoalPocket
 
-# Introduction
+## Introduction
 GoalPocket is a financial record and tracking website that helping users with recording income and expenses so they can know whether they are being extravagant or frugal.
 
-# Technical Architecture
+## Technical Architecture
 GoalPocket leverages a modern tech stack:
  - Frontend:
  - Backend:
  - Machine Learning:
 
-# Features
+## Features
 
 
 # Getting Started
 Cooming Soon!!!
 
-# API Reference
+## API Reference
 
 
-# Contributors
+## Contributors
 - MC200D5Y1799 - Wildan Hidayaturrohman - Universitas Diponegoro
 - MC200D5X2448 - Aula Amalia Husna - Universitas Diponegoro
 - MC200D5Y0709 - Raung Kawijayan - Universitas Diponegoro
@@ -26,7 +26,7 @@ Cooming Soon!!!
 - FC621D5Y1655 - Muhammad Fadhlan Hakim - Universitas Dian Nuswantoro
 - FC498D5Y1129 - Syaekhul Huda Mardhotillah - Universitas Sains & Teknologi Komputer
 
-# Repository
+## Repository
 - Backend
 - Frontend
 - Machine Learning
