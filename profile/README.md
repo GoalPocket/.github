@@ -2,6 +2,11 @@
 
 ## Introduction
 GoalPocket is a financial record and tracking website that helping users with recording income and expenses so they can know whether they are being extravagant or frugal.
+## Key Benefit
+Coming Soon!!!
+
+## Core Concepts
+Coming Soon!!!
 
 ## Technical Architecture
 GoalPocket leverages a modern tech stack:
@@ -10,12 +15,14 @@ GoalPocket leverages a modern tech stack:
  - Machine Learning:
 
 ## Features
+Coming Soon!!!
 
 
 # Getting Started
-Cooming Soon!!!
+Coming Soon!!!
 
 ## API Reference
+Coming Soon!!!
 
 
 ## Contributors
