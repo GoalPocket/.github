@@ -84,3 +84,13 @@ git clone https://github.com/GoalPocket/Front-End
 git clone https://github.com/GoalPocket/Back-End
 git clone https://github.com/GoalPocket/Machine-Learning
 ```
+### 2. Install Dependencies
+Follow instructions in each repository's README to install dependencies and configure environment variables.
+
+### 3. Run Locally
+- Frontend
+```
+cd Front-End
+npm install
+npm run dev
+```
